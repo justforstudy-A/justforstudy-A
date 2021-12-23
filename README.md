@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning the skill which is using to touch fish.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justforstudy-A&show_icons=true&theme=dracula)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justforstudy-A&show_icons=true&theme=dracula)](https://github.com/justforstudy-A)
