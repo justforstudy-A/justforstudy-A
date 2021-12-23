@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Hi every-one 👋
 - 🔭 I’m currently working on earth.
 - 🌱 I’m currently learning the skill which is using to touch fish.
 
