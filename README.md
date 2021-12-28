@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 bg_color=0,ea7161,ffc14d,fffc4d,52fa5a
 -->
 ### Hi every-one 👋
-- 🔭 I’m currently working on earth.
+- 🔭 I’m currently working on the earth.
 - 🌱 I’m currently learning the skill which is using to touch fish.
 
 <a href="#" style="display:inline">
